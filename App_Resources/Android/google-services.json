@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482232794752",
+    "firebase_url": "https://pokedex-wt2-allen.firebaseio.com",
+    "project_id": "pokedex-wt2-allen",
+    "storage_bucket": "pokedex-wt2-allen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482232794752:android:b2424bf920488412a63065",
+        "android_client_info": {
+          "package_name": "org.nativescript.nstest52170369"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482232794752-o1lv2hc7b0oeusq48od0h5vu4smmr6tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.nativescript.nstest52170369",
+            "certificate_hash": "c12102f76ca5591dbaf3b89ec2c40799dee10f28"
+          }
+        },
+        {
+          "client_id": "482232794752-gm7okmc5a0gnq5p2mmkbagntk4p3rrln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNSNbOX1-SlWTzAGKWN5F1IusyJrBj0dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482232794752-gm7okmc5a0gnq5p2mmkbagntk4p3rrln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
